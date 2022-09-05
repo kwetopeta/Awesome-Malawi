@@ -3,7 +3,10 @@ Directory for the warm heart of Africa, Malawi
 
 - [Universities](#universities)
 - Radio Stations
-- 
+- Influential People
+- News
+- Books
+
 
 ### Universities
 
@@ -30,9 +33,17 @@ Directory for the warm heart of Africa, Malawi
 - Blantrye international uni
 - Nkhoma uni
 
+### Radio Stations
 
+### Influential People
 
+- Bushiri
+- Robert Kamkwamba
+- Gospel Kazako
+- 
 
+### Books
 
-
-
+- Nsinjiro za Chiyankhulo
+- Buku lopatulika
+- 
